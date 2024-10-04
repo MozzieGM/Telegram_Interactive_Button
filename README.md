@@ -45,7 +45,7 @@ This project is a customizable Telegram bot built with Python that allows users 
 
 ### Examples
 
-![demo](demo.mp4)
+![demo](demo.gif)
 
 ### Contributing
 
